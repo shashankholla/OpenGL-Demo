@@ -12,4 +12,4 @@ For linux, run "cmake .." from the build folder. Then run launch-finalproject.sh
 
 Demo Video
 
-![DemoVideo](DemoVideo.mp4)
+https://github.com/shashankholla/OpenGL-Demo/raw/main/DemoVideo.mp4
